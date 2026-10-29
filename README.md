@@ -1,1 +1,5 @@
-# git-practice
+# GitHub Practice
+
+My first Git and GitHub practice project.
+
+I am learning Git commands, commits, branching, push, pull, and pull requests.
